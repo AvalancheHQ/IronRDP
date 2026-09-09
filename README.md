@@ -8,6 +8,7 @@
   <a href="https://crates.io/crates/ironrdp"><img src="https://img.shields.io/crates/v/ironrdp?logo=rust" alt="crates.io"></a>
   <a href="https://docs.rs/ironrdp/"><img src="https://docs.rs/ironrdp/badge.svg" alt="docs.rs"></a>
   <a href="https://github.com/Devolutions/IronRDP/actions/workflows/ci.yml"><img src="https://github.com/Devolutions/IronRDP/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
+  <a href="https://app.codspeed.io/AvalancheHQ/IronRDP?utm_source=badge"><img src="https://img.shields.io/endpoint?url=https://codspeed.io/badge.json" alt="CodSpeed"/></a>
   <img src="https://img.shields.io/badge/license-MIT%20OR%20Apache--2.0-blue" alt="License: MIT OR Apache-2.0">
   <a href="https://matrix.to/#/#IronRDP:matrix.org"><img src="https://img.shields.io/badge/chat-matrix-brightgreen?logo=matrix" alt="Matrix"></a>
 </p>

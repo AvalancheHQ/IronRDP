@@ -22,7 +22,7 @@ alloc = []
 [dependencies]
 
 [dev-dependencies]
-criterion = { version = "0.8", features = ["html_reports"] }
+criterion = { version = "5.0.1", features = ["html_reports"], package = "codspeed-criterion-compat" }
 
 [[bench]]
 name = "bulk_compression"

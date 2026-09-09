@@ -6,7 +6,8 @@ edition.workspace = true
 publish = false
 
 [dev-dependencies]
-criterion = "0.8"
+criterion = { version = "5.0.1", package = "codspeed-criterion-compat" }
+ironrdp-core = { path = "../ironrdp-core", features = ["alloc"] }
 ironrdp-graphics.path = "../ironrdp-graphics"
 ironrdp-pdu.path = "../ironrdp-pdu"
 ironrdp-server = { path = "../ironrdp-server", features = ["__bench"] }
